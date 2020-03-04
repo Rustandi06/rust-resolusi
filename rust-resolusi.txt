@@ -1,3 +1,5 @@
 Rust resolusi 
 - konsisten belajar javascript
 - belajar web developer
+- membuat webiste sekolah
+- membuat web portfolio
